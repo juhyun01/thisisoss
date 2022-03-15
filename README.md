@@ -16,8 +16,8 @@ Hello
 
 First Header | Second Header
 ------------ | -------------
-Content form cell 1 | content from cell 2
-Content in the first column | Content in the second column
+Hi | bye
+okay | yes
 
 #Lorem ipsum
 
