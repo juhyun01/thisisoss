@@ -2,7 +2,9 @@
 
 # Header 1
 
-Hello
+print("hello")
+
+~~strikethrough~~
 
 **blod**
 
@@ -23,4 +25,12 @@ okay | yes
 
 var foo = 'bar';
 if(true) foo = 'foo';
+
+> blockquote text
+
+|Left  |Center|Right|
+|:-----|:----:|----:|
+|1     |A     |C    |
+|2     |B     |D    |
+
 
