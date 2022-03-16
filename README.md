@@ -1,8 +1,8 @@
 # age-friendly-busan
 
 ## 고령친화 도시 소개
-[고령친화도시 추진방향](http://afc.bswdi.re.kr/Page.do?code=C102&menu=1)
-[고령친화도시 노인정책자문단](http://afc.bswdi.re.kr/Page.do?code=C301&menu=3)
+1. [고령친화도시 추진방향](http://afc.bswdi.re.kr/Page.do?code=C102&menu=1)
+2. [고령친화도시 노인정책자문단](http://afc.bswdi.re.kr/Page.do?code=C301&menu=3)
 
 ## 고령친화 조성의 필요성
 http://afc.bswdi.re.kr/Page.do?code=C101&menu=1
